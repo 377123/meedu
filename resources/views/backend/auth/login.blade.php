@@ -37,7 +37,7 @@
         </div>
 
         <footer class="col-12 align-self-end text-center fs-13">
-            <p class="mb-0"><small>Copyright © 2019 <a href="https://meedu.vip">MeEdu</a>. All rights reserved.</small></p>
+            <p class="mb-0"></p>
         </footer>
     </div>
 
