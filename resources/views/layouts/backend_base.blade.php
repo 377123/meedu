@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Responsive admin dashboard and web application ui kit. ">
     <meta name="keywords" content="blank, starter">
-    <title>@yield('title') MeEdu后台管理系统</title>
+    <title>@yield('title') 后台管理系统</title>
     <!-- Fonts -->
     <style>
         /* roboto-100 */

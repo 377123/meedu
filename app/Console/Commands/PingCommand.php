@@ -44,10 +44,10 @@ class PingCommand extends Command
      */
     public function handle()
     {
-        $data = [
-            'name' => config('app.name'),
-            'url' => urlencode(config('app.url')),
-        ];
-        @file_get_contents('https://meedu.vip/pong?'.http_build_query($data));
+//        $data = [
+//            'name' => config('app.name'),
+//            'url' => urlencode(config('app.url')),
+//        ];
+//        @file_get_contents('https://meedu.vip/pong?'.http_build_query($data));
     }
 }

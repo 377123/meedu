@@ -94,19 +94,18 @@
         <div class="col-lg-5">
             <h5 class="text-uppercase fs-14 ls-1">关于我们</h5>
             <p class="text-justify">
-                MeEdu 是一款转为个人开发的开源免费的在线点播系统。依靠 MeEdu 可以在短短几分钟之内搭建一个功能完善的在线教育系统。MeEdu 专注与视频
+                是一款转为个人开发的开源免费的在线点播系统。 可以在短短几分钟之内搭建一个功能完善的在线教育系统。 专注与视频
                 的付费点播，结合数百款插件足以满足您的任何要求。
             </p>
         </div>
 
         <div class="col-6 col-md-4 col-lg-2 text-left1 text-lg-center1">
-            <h5 class="text-uppercase fs-14 ls-1">MeEdu</h5>
+            <h5 class="text-uppercase fs-14 ls-1"></h5>
             <ul class="nav flex-column">
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/Qsnh/meedu">源码</a>
+
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/Qsnh/meedu/issues">Bug反馈</a>
                 </li>
             </ul>
         </div>
@@ -115,10 +114,9 @@
             <h5 class="text-uppercase fs-14 ls-1">服务支持</h5>
             <ul class="nav flex-column">
                 <li class="nav-item">
-                    <a class="nav-link" href="https://meedu.vip">官网</a>
+
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://meedu.vip">插件</a>
                 </li>
             </ul>
         </div>
@@ -127,10 +125,9 @@
             <h5 class="text-uppercase fs-14 ls-1">服务支持</h5>
             <ul class="nav flex-column">
                 <li class="nav-item">
-                    <a class="nav-link" href="https://meedu.vip">官网</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://meedu.vip">插件</a>
+
                 </li>
             </ul>
         </div>
@@ -141,17 +138,12 @@
 
     <div class="row">
         <div class="col-md-6 justify-content-center justify-content-md-start">
-            <p>Copyright © 2019 <a href="https://github.com/Qsnh/meedu">MeEdu</a>. All rights reserved.</p>
+            <p>Copyright © 2019 </p>
         </div>
 
         <div class="col-md-6">
             <ul class="nav nav-primary nav-dotted nav-dot-separated justify-content-center justify-content-md-end">
-                <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/Qsnh/meedu">源码</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://meedu.vip">Website</a>
-                </li>
+
             </ul>
         </div>
     </div>
