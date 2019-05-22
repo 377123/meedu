@@ -15,7 +15,7 @@
     <aside class="sidebar sidebar-icons-right sidebar-icons-boxed sidebar-expand-lg">
         <header class="sidebar-header">
             <span class="logo">
-                <a href="{{route('backend.dashboard.index')}}" style="font-size: 2rem;">MeEdu</a>
+                <a href="{{route('backend.dashboard.index')}}" style="font-size: 2rem;">video</a>
             </span>
         </header>
 
@@ -80,17 +80,12 @@
         <footer class="site-footer">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="text-center text-md-left">Copyright © 2019 <a href="https://meedu.vip">MeEdu</a>. All rights reserved.</p>
+                    <p class="text-center text-md-left">Copyright © 2019 </p>
                 </div>
 
                 <div class="col-md-6">
                     <ul class="nav nav-primary nav-dotted nav-dot-separated justify-content-center justify-content-md-end">
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://meedu.vip">插件</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://github.com/Qsnh/meedu">源码</a>
-                        </li>
+
                     </ul>
                 </div>
             </div>
