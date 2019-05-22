@@ -15,7 +15,7 @@
     <aside class="sidebar sidebar-icons-right sidebar-icons-boxed sidebar-expand-lg">
         <header class="sidebar-header">
             <span class="logo">
-                <a href="{{route('backend.dashboard.index')}}" style="font-size: 2rem;">video</a>
+                <a href="{{route('backend.dashboard.index')}}" style="font-size: 2rem;">后台管理</a>
             </span>
         </header>
 
